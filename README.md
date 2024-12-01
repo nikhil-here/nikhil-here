@@ -11,4 +11,12 @@ Welcome to my GitHub! I’m not super active here—my 9-to-5 keeps me busy ⚙�
 - [Medium](https://medium.com/@nikhil.here) ✍️
 - [Email](nikhilmandlik43@gmail.com) 📧
 
+## 🏅 Leetcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/nikhil-here)
+
+## 📖 Blogs
+![Nikhil's blog](https://github-read-medium.vercel.app/latest?username=nikhil.here&limit=2&theme=nor)
+
+
+
 
