@@ -1,16 +1,14 @@
-## Hi there 👋
+<img height="150" src="https://media1.tenor.com/m/iRkL6OMGhU4AAAAd/alarm.gif"/>
 
-<!--
-**nikhil-here/nikhil-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! I'm Nikhil Mandlik 🚀✨
 
-Here are some ideas to get you started:
+**Android Developer** 🧑‍💻 | **Jetpack Compose 💙 | **Kotlin Enthusiast** 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I’m not super active here—my 9-to-5 keeps me busy ⚙️. But I drop by occasionally to contribute and create a few meaningful projects and gists 💡. 
+
+## 🔗 Connect With Me:
+- [LinkedIn](https://www.linkedin.com/in/nikhilhere/) 🔗
+- [Medium](https://medium.com/@nikhil.here) ✍️
+- [Email](nikhilmandlik43@gmail.com) 📧
+
+
