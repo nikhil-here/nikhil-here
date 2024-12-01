@@ -2,7 +2,7 @@
 
 # Hey there! I'm Nikhil Mandlik 🚀✨
 
-**Android Developer** 🧑‍💻 | **Jetpack Compose 💙 | **Kotlin Enthusiast** 🤖
+**Android Developer** 🧑‍💻 | **Jetpack Compose** 💙 | **Kotlin Enthusiast** 🤖
 
 Welcome to my GitHub! I’m not super active here—my 9-to-5 keeps me busy ⚙️. But I drop by occasionally to contribute and create a few meaningful projects and gists 💡. 
 
